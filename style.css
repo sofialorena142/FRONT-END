@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+}
+section{
+    font-size: small;
+}
+
+header{
+    background-color: gray;
+    width: 100%;
+    height: 250px;
+    margin-bottom: 15px;
+}
+
+footer{
+    background-color: gray;
+    width: 100%;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centrado{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    color: white;
+    margin-bottom: 10px;
+}
+
+h1 b{ 
+    font-weight: 500;
+}
+
+#contendor-footer{
+    background-color: gray;
+    width: 100%;
+}
